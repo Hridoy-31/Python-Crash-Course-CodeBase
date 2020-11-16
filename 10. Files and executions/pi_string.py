@@ -3,5 +3,10 @@ filename = '/home/hridoy/github/Python-Crash-Course-CodeBase/10. Files and execu
 with open(filename) as file_object:
     lines = file_object.readlines()
 
+py_str = ''
+
 for line in lines:
-    print(line.rstrip())
+    py_str += line.strip()
+
+print(py_str)
+print(len(py_str))
