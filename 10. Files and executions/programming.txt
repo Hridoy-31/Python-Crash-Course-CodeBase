@@ -1,0 +1,4 @@
+I love Programming.
+I love to program in Python.
+I love playing PC games too.
+I love to use C++ for competitive programming.
